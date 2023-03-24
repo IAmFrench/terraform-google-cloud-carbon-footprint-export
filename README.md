@@ -1,6 +1,6 @@
 # Cloud Carbon Footprint export module for GCP
 
-This module for GCP will create both BigQuery dataset and data sync for your Cloud Carbon Footprint export.
+This module for GCP will create both BigQuery dataset and data Transfert for your Cloud Carbon Footprint export.
 
 Please note that the transfer config does not automatically export historical data. To request historical data back to January 2021, schedule a data backfill.
 

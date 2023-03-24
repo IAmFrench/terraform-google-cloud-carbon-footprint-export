@@ -1,6 +1,6 @@
 # Cloud Carbon Footprint export
 
-This example will create a BigQuery dataset plus a BigQuery data transfert for Cloud Carbon Footprint.
+This example will create a BigQuery dataset plus a BigQuery Data Transfert for Cloud Carbon Footprint.
 
 <!-- BEGINNING OF PRE-COMMIT-TERRAFORM DOCS HOOK -->
 ## Requirements
