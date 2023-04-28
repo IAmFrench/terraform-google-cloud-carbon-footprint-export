@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+title: Google Cloud Carbon Footprint export Terraform Module
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - orcid: "https://orcid.org/0009-0002-1956-1126"
+    given-names: Alexandre
+    family-names: PARÈS
+repository-code: >-
+  https://github.com/IAmFrench/terraform-google-cloud-carbon-footprint-export
+repository-artifact: >-
+  https://registry.terraform.io/modules/IAmFrench/cloud-carbon-footprint-export/google/latest
+abstract: >-
+  Terraform Module for Google Cloud Carbon Footprint export to BigQuery.
+keywords:
+  - terraform
+  - terraform-modules
+  - gcp
+  - google-cloud
+  - google-bigquery
+  - carbon-footprint
+license: Apache-2.0
